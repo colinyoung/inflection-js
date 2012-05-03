@@ -87,10 +87,10 @@ THE SOFTWARE.
   We use the window (if available) to enable dynamic loading of this script
   Window won't necessarily exist for non-browsers.
 */
-if (window && !window.InflectionJS)
-{
-    window.InflectionJS = null;
-}
+// if (window && !window.InflectionJS)
+// {
+    // window.InflectionJS = null;
+// }
 
 /*
   This sets up some constants for later use
